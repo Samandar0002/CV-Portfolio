@@ -1,0 +1,11 @@
+export { default as Antdesign } from "./antdesignlogo";
+export { default as Csslogo } from "./csslogo";
+export { default as Githublogo } from "./githublogo";
+export { default as Html5logo } from "./html5logo";
+export { default as Jslogo } from "./jslogo";
+export { default as Mongologo } from "./mongologo";
+export { default as Postman } from "./postman";
+export { default as Reactlogo } from "./reactlogo";
+export { default as Reduxlogo } from "./reduxlogo";
+export { default as Sasslogo } from "./sasslogo";
+export { default as Tslogo } from "./tslogo";
